@@ -9,3 +9,6 @@ A good portion of the code was given to us, however, the code that I wrote were 
 - int checkHeight(AVLNode* &root)
 
 The test cases that were given to us to use to test the program are given in the testcases folder.
+
+# To run the program
+To compile the code, you only need to run the makefile. To run the program you only need to run "./a.exe" then input the data from one of the input files.
