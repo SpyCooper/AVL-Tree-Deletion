@@ -7,3 +7,5 @@ A good portion of the code was given to us, however, the code that I wrote were 
 - void printData(AVLNode* &root)
 - void printHeight(AVLNode* &root)
 - int checkHeight(AVLNode* &root)
+
+The test cases that were given to us to use to test the program are given in the testcases folder.
